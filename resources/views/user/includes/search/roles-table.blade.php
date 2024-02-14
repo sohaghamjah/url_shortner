@@ -1,0 +1,1 @@
+@include('admin.includes.tables.roles-table', compact('roles'))
